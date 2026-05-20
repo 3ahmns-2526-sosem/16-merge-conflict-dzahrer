@@ -16,7 +16,7 @@ HEAD
 
 
 \# Projekttitel
-kleine änderung in github gemacht für mergekonflikt
+kleine änderung in github gemacht für mergekonflikt !
 
 
 \## Kurzbeschreibung
