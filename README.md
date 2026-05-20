@@ -16,13 +16,13 @@ HEAD
 
 
 \# Projekttitel
-Konflikt lösen
+
 
 
 \## Kurzbeschreibung
 
 Dieses Projekt wurde lokal und online bearbeitet.
-Der Merge Conflict wurde gelöst.
+Der Merge Conflict wurde gelöst. aa
 
 \## Zielplattform
 
